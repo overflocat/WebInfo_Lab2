@@ -1,0 +1,160 @@
+Elapsed time is 0.049841 seconds.
+random finished when k = 1!
+Elapsed time is 0.042778 seconds.
+degree_centrality finished when k = 1!
+Elapsed time is 0.669798 seconds.
+closeness_centrality finished when k = 1!
+Elapsed time is 27.555924 seconds.
+greedy finished when k = 1!
+Elapsed time is 0.049168 seconds.
+random finished when k = 2!
+Elapsed time is 0.044665 seconds.
+degree_centrality finished when k = 2!
+Elapsed time is 0.701433 seconds.
+closeness_centrality finished when k = 2!
+Elapsed time is 63.027777 seconds.
+greedy finished when k = 2!
+Elapsed time is 0.039707 seconds.
+random finished when k = 3!
+Elapsed time is 0.038077 seconds.
+degree_centrality finished when k = 3!
+Elapsed time is 0.680341 seconds.
+closeness_centrality finished when k = 3!
+Elapsed time is 98.559782 seconds.
+greedy finished when k = 3!
+Elapsed time is 0.036002 seconds.
+random finished when k = 4!
+Elapsed time is 0.035598 seconds.
+degree_centrality finished when k = 4!
+Elapsed time is 0.659248 seconds.
+closeness_centrality finished when k = 4!
+Elapsed time is 136.200541 seconds.
+greedy finished when k = 4!
+Elapsed time is 0.036575 seconds.
+random finished when k = 5!
+Elapsed time is 0.035108 seconds.
+degree_centrality finished when k = 5!
+Elapsed time is 0.649897 seconds.
+closeness_centrality finished when k = 5!
+Elapsed time is 173.781121 seconds.
+greedy finished when k = 5!
+Elapsed time is 0.036587 seconds.
+random finished when k = 6!
+Elapsed time is 0.042587 seconds.
+degree_centrality finished when k = 6!
+Elapsed time is 0.737658 seconds.
+closeness_centrality finished when k = 6!
+Elapsed time is 201.692866 seconds.
+greedy finished when k = 6!
+Elapsed time is 0.037954 seconds.
+random finished when k = 7!
+Elapsed time is 0.036104 seconds.
+degree_centrality finished when k = 7!
+Elapsed time is 0.660019 seconds.
+closeness_centrality finished when k = 7!
+Elapsed time is 246.554940 seconds.
+greedy finished when k = 7!
+Elapsed time is 0.035783 seconds.
+random finished when k = 8!
+Elapsed time is 0.034638 seconds.
+degree_centrality finished when k = 8!
+Elapsed time is 0.644741 seconds.
+closeness_centrality finished when k = 8!
+Elapsed time is 282.778879 seconds.
+greedy finished when k = 8!
+Elapsed time is 0.036195 seconds.
+random finished when k = 9!
+Elapsed time is 0.035389 seconds.
+degree_centrality finished when k = 9!
+Elapsed time is 0.683956 seconds.
+closeness_centrality finished when k = 9!
+Elapsed time is 307.920501 seconds.
+greedy finished when k = 9!
+Elapsed time is 0.035494 seconds.
+random finished when k = 10!
+Elapsed time is 0.036054 seconds.
+degree_centrality finished when k = 10!
+Elapsed time is 0.646897 seconds.
+closeness_centrality finished when k = 10!
+Elapsed time is 363.231341 seconds.
+greedy finished when k = 10!
+Elapsed time is 0.038612 seconds.
+random finished when k = 11!
+Elapsed time is 0.037964 seconds.
+degree_centrality finished when k = 11!
+Elapsed time is 0.686084 seconds.
+closeness_centrality finished when k = 11!
+Elapsed time is 382.141906 seconds.
+greedy finished when k = 11!
+Elapsed time is 0.036500 seconds.
+random finished when k = 12!
+Elapsed time is 0.037590 seconds.
+degree_centrality finished when k = 12!
+Elapsed time is 0.710455 seconds.
+closeness_centrality finished when k = 12!
+Elapsed time is 433.694706 seconds.
+greedy finished when k = 12!
+Elapsed time is 0.042881 seconds.
+random finished when k = 13!
+Elapsed time is 0.037956 seconds.
+degree_centrality finished when k = 13!
+Elapsed time is 0.679878 seconds.
+closeness_centrality finished when k = 13!
+Elapsed time is 455.786216 seconds.
+greedy finished when k = 13!
+Elapsed time is 0.038181 seconds.
+random finished when k = 14!
+Elapsed time is 0.037253 seconds.
+degree_centrality finished when k = 14!
+Elapsed time is 0.678863 seconds.
+closeness_centrality finished when k = 14!
+Elapsed time is 486.381930 seconds.
+greedy finished when k = 14!
+Elapsed time is 0.037256 seconds.
+random finished when k = 15!
+Elapsed time is 0.036133 seconds.
+degree_centrality finished when k = 15!
+Elapsed time is 0.837068 seconds.
+closeness_centrality finished when k = 15!
+Elapsed time is 541.761506 seconds.
+greedy finished when k = 15!
+Elapsed time is 0.047248 seconds.
+random finished when k = 16!
+Elapsed time is 0.043905 seconds.
+degree_centrality finished when k = 16!
+Elapsed time is 0.787240 seconds.
+closeness_centrality finished when k = 16!
+Elapsed time is 546.933832 seconds.
+greedy finished when k = 16!
+Elapsed time is 0.037082 seconds.
+random finished when k = 17!
+Elapsed time is 0.035795 seconds.
+degree_centrality finished when k = 17!
+Elapsed time is 0.642046 seconds.
+closeness_centrality finished when k = 17!
+Elapsed time is 738.489433 seconds.
+greedy finished when k = 17!
+Elapsed time is 0.035333 seconds.
+random finished when k = 18!
+Elapsed time is 0.035471 seconds.
+degree_centrality finished when k = 18!
+Elapsed time is 0.648346 seconds.
+closeness_centrality finished when k = 18!
+Elapsed time is 614.441511 seconds.
+greedy finished when k = 18!
+Elapsed time is 0.035068 seconds.
+random finished when k = 19!
+Elapsed time is 0.035821 seconds.
+degree_centrality finished when k = 19!
+Elapsed time is 0.648423 seconds.
+closeness_centrality finished when k = 19!
+Elapsed time is 680.006402 seconds.
+greedy finished when k = 19!
+Elapsed time is 0.042004 seconds.
+random finished when k = 20!
+Elapsed time is 0.035709 seconds.
+degree_centrality finished when k = 20!
+Elapsed time is 0.708657 seconds.
+closeness_centrality finished when k = 20!
+Elapsed time is 706.162851 seconds.
+greedy finished when k = 20!
